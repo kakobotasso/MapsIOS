@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Cinema Reserva Cultural São Paulo",
+		"address": "Av. Paulista, 900 - Bela Vista, São Paulo - SP, 01311-000, Brasil",
+		"latitude": -23.5651974,
+		"longitude": -46.6531163,
+		"url": "http://www.reservacultural.com.br"
+	},
+	{
+		"name": "Cinemark Patio Paulista",
+		"address": "Rua Treze de Maio, 1947 - Bela Vista, São Paulo - SP, 17630-000, Brasil",
+		"latitude": -23.5641324,
+		"longitude": -46.6614258,
+		"url": "https://www3.cinemark.com.br/sao-paulo/cinemas?cinema=723"
+	},
+	{
+		"name": "Cinemark Cidade São Paulo",
+		"address": "Av. Paulista, 1230 - Bela Vista, São Paulo - SP, 01310-100, Brasil",
+		"latitude": -23.563522,
+		"longitude": -46.652725,
+		"url": "https://www3.cinemark.com.br/sao-paulo/cinemas?cinema=2119"
+	},
+	{
+		"name": "Espaço Itaú de Cinema Frei Caneca",
+		"address": "R. Frei Caneca, 569 - Consolação, São Paulo - SP, 01307-001, Brasil",
+		"latitude": -23.5640926,
+		"longitude": -46.6614258,
+		"url": "http://www.itaucinemas.com.br/pag/sao-paulo-shopping-frei-caneca"
+	},
+	{
+		"name": "Playarte Cinemas - Bristol",
+		"address": "Shopping Center 3 - Av. Paulista, 2064 - Jardim Paulista, São Paulo - SP, 01310-200, Brasil",
+		"latitude": -23.5640527,
+		"longitude": -46.6614258,
+		"url": "http://www.playartecinemas.com.br/cinemas/bri"
+	}
+]
